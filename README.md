@@ -6,4 +6,4 @@ index 7936d01..ba0dc76 100644
 +++ b/README.md
 @@ -1 +1,2 @@
 # LAB1
-+nuova riga
+
