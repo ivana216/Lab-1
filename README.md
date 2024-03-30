@@ -1,3 +1,1 @@
-git branch -a
-* main
-remotes/origin/main
+echo "terza riga" >> README.md
